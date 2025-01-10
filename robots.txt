@@ -1,0 +1,5 @@
+﻿User-agent: *
+Allow: /
+
+
+Sitemap: https://stylishwindowblinds.xyz/sitemap_index.xml
